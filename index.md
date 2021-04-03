@@ -5,17 +5,20 @@
     <img src="attachments/personal-candid.JPG" height=500>
 </p>
 
-## Guide
+## **Contents**
+<!-- no toc -->
 1. [About me](#about-me)
-   - [Travelling]()
-   - [Binge watching]() 
-   - [Other fun activities]()
-2. [As a programmer]()
+   - [Travelling](#travelling)
+   - [Binge watching](#binge-watching)
+   - [Playing Sports](#playing-sports)
+2. [Programming life](#programming-life)
 
 ## **About me**
 
 Computer Science Sophomore at UCSD - **Go Tritons!**\
-Personal Website: [Link](https://amankaggarwal.github.io/)\
+Personal Website: [Link](https://amankaggarwal.github.io/)
+
+
 Few things I love to do in my free time
 - Go on a vacation - Travelling
 - Binge watching shows
@@ -81,3 +84,23 @@ Top 5 Favourite shows:
 - Badminton
 - Cricket
 
+## **Programming life**
+
+I have worked with the following programming languages
+```{python}
+programming_languages = [
+    'C++',
+    'Python',
+    'Java',
+    'C',
+]
+
+front_end_languages = [
+    'Javascript',
+    'HTML/CSS'
+]
+
+backend_frameworks = [
+    'Django'
+]
+```
